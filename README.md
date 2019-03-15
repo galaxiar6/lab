@@ -14,7 +14,7 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 2. Use `!addcmd` no ***[#🖥️adicionar-comandos🖥️](https://discordapp.com/channels/539580995838541834/556055264277561364/)***
 3. Aguarde que um administrador aceite o seu comando
 > Veja os comandos disponíveis: 
-> * [JavaScript]()
+> * [JavaScript](https://github.com/romilo903/blob/master/JavaScript)
 > * [Python]()
 > * [Java]()
 > * [Kotlin]()
