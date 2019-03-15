@@ -2,4 +2,5 @@
 Venha testar o seu Discord BOT!!
 Temos suporte para várias linguagens de programação, incluindo WebSite!!
 
-*Suporte
+### Adicione o seu BOT!!
+> Teste o seu bot e receba sugestões!
