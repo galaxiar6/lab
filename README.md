@@ -1,2 +1,5 @@
 # Desenvolvimento BOT | WebSite
-Em breve...
+Venha testar o seu Discord BOT!!
+Temos suporte para várias linguagens de programação, incluindo WebSite!!
+
+*Suporte
