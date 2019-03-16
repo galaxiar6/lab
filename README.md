@@ -2,7 +2,7 @@
 Venha testar o seu Discord BOT!!
 Temos suporte para várias linguagens de programação, incluindo WebSite!!
 
-<center><a href="https://discord.gg/BdSxh2N"><img src="https://discordapp.com/api/guilds/539580995838541834/embed.png" alt="Desenvolvimento BOT | WebSite" title="Desenvolvimento BOT | WebSite"></a></center>
+<p align="center"><a href="https://discord.gg/BdSxh2N"><img src="https://discordapp.com/api/guilds/539580995838541834/embed.png" alt="Desenvolvimento BOT | WebSite" title="Desenvolvimento BOT | WebSite"></a></p>
 
 ### Adicione o seu BOT!!
 > Teste o seu bot, receba sugestões e ajuda!
