@@ -15,10 +15,10 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 3. Aguarde que um administrador aceite o seu comando
 > Veja os comandos disponíveis: 
 > * [JavaScript](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/JavaScript)
-> * [Python]()
-> * [Java]()
-> * [Kotlin]()
-> * [Ruby]()
+> * [Python](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Python)
+> * [Java](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Java)
+> * [Kotlin](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Kotlin)
+> * [Ruby](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Ruby)
 
 
 ### Discord ~~BOT~~ Server List!!
