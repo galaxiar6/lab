@@ -26,3 +26,12 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 ### Discord ~~BOT~~ Server List!!
 > Veja várias informações no [**Discord BOT List *Servers***](https://discordbots.org/servers/539580995838541834)
 
+### Equipe do servidor
+| Cargo  | Usuário |
+| ------------- | ------------- |
+| Dono | DIDIOGamer#3130 |
+| Dono | Vasco Santos | Forza Island RP33305 |
+| Dono | Romilo903#9515 |
+| Administrador | Ignasiuz#9034 |
+| Moderador | RodrigoTaNojogo#5385 |
+| Moderador | RydeR#4523 |
