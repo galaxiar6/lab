@@ -28,7 +28,7 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 | Cargo  | Usuário |
 | ------------- | ------------- |
 | Dono | DIDIOGamer#3130 |
-| Dono | Vasco Santos | Forza Island RP33305 |
+| Dono | Vasco Santos#3305 |
 | Dono | Romilo903#9515 |
 | Administrador | Ignasiuz#9034 |
 | Moderador | RodrigoTaNojogo#5385 |
