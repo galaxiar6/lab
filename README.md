@@ -31,6 +31,9 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 | Moderador | RydeR#4523 |
 
 ### <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" height="25px"> Doações
+
+Clique [aqui](https://donatebot.io/checkout/539580995838541834) para doar
+
 | Cargo | Preço | Benefícios |
 | ------------- | ------------- | ------------- |
 | VIP | 5.77$ | Cargo no servidor<br>Mais em breve |
