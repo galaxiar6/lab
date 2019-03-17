@@ -1,8 +1,8 @@
-# Desenvolvimento BOT | WebSite
-Venha testar o seu Discord BOT!!
+<h1 align="center">Desenvolvimento BOT | WebSite</h1>
+<p align="center">Venha testar o seu Discord BOT!!
 Temos suporte para várias linguagens de programação, incluindo WebSite!!
-
-<p align="center"><a href="https://discord.gg/BdSxh2N"><img src="https://discordapp.com/api/guilds/539580995838541834/embed.png" alt="Desenvolvimento BOT | WebSite" title="Desenvolvimento BOT | WebSite"></a> <a href="https://github.com/romilo903/desenvolvimentobotwebsite/stargazers"><img src="https://img.shields.io/github/stars/romilo903/desenvolvimentobotwebsite.svg?style=social&label=Stars"></a>
+<br><br>
+<a href="https://discord.gg/BdSxh2N"><img src="https://discordapp.com/api/guilds/539580995838541834/embed.png" alt="Desenvolvimento BOT | WebSite" title="Desenvolvimento BOT | WebSite"></a> <a href="https://github.com/romilo903/desenvolvimentobotwebsite/stargazers"><img src="https://img.shields.io/github/stars/romilo903/desenvolvimentobotwebsite.svg?style=social&label=Stars"></a>
 <a href="https://github.com/romilo903/desenvolvimentobotwebsite/watchers"><img src="https://img.shields.io/github/watchers/romilo903/desenvolvimentobotwebsite.svg?style=social&label=Watch"></a></p>
 
 ### Adicione o seu BOT!!
