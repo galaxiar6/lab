@@ -29,3 +29,9 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 | Administrador | Ignasiuz#9034 |
 | Moderador | RodrigoTaNojogo#5385 |
 | Moderador | RydeR#4523 |
+
+### <img src="https://twemoji.maxcdn.com/2/72x72/1f4b8.png" height="25px"> Doações
+| Cargo | Preço | Benefícios |
+| ------------- | ------------- | ------------- |
+| VIP | 5.77$ | Cargo no servidor<br>Mais em breve |
+| VIP+ | 11.80$ | Cargo no servidor<br> Mais em breve |
