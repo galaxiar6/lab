@@ -16,11 +16,11 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 2. Use `!addcmd` no ***[#🖥️adicionar-comandos🖥️](https://discordapp.com/channels/539580995838541834/556055264277561364/ "👥ADICIONAR👥")***
 3. Aguarde que um administrador aceite o seu comando
 > Veja os comandos disponíveis: 
-> * [JavaScript](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/JavaScript)
-> * [Python](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Python)
-> * [Java](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Java)
-> * [Kotlin](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Kotlin)
-> * [Ruby](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Ruby)
+> * [JavaScript](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/JavaScript) (BOT completo)
+> * [Python](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Python) (apenas comandos)
+> * [Java](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Java) (apenas comandos)
+> * [Kotlin](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Kotlin) (apenas comandos)
+> * [Ruby](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Ruby) (apenas comandos)
 
 > Os comandos em JavaScript também são adicionados ao **[js!] Robot JS**
 
