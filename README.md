@@ -20,10 +20,6 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 
 > Os comandos também são adicionados ao **[js!] Robot JS**
 
-
-### Discord ~~BOT~~ Server List!!
-> Veja várias informações no [**Discord BOT List *Servers***](https://discordbots.org/servers/539580995838541834)
-
 ### Equipe do servidor
 | Cargo  | Usuário |
 | ------------- | ------------- |
