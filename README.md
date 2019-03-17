@@ -22,6 +22,8 @@ Temos suporte para várias linguagens de programação, incluindo WebSite!!
 > * [Kotlin](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Kotlin)
 > * [Ruby](https://github.com/romilo903/desenvolvimentobotwebsite/tree/master/Ruby)
 
+Os comandos em JavaScript também são adicionados ao <span style="background-color: rgba(115,139,215,.1); color: #7289da; font-weight: 600; transition: background-color .05s,color .05s;">[js!] Robot JS</span>
+
 
 ### Discord ~~BOT~~ Server List!!
 > Veja várias informações no [**Discord BOT List *Servers***](https://discordbots.org/servers/539580995838541834)
