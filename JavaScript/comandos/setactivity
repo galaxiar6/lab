@@ -1,0 +1,9 @@
+//Comando enviado por RydeR#2089
+const Discord = require('discord.js');
+
+exports.run = (client, message, args) => {
+  let activity = args.join(' ')
+  if(message.author.id !== 'seu id') return message.channel.send("Só o meu dono pode fazer isso.")
+  if(!activity) return message.channel.send("Você não colocou nehum texto.")
+  client.user.setGame(activity)
+}
